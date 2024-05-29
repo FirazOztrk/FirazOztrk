@@ -29,9 +29,8 @@ Description: [Brief description of the project]
 
 ## Connect with Me
 
-- [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url)
-- [Personal Blog/Website](your-website-url)
+- [LinkedIn](https://www.linkedin.com/in/f%C4%B1raz-%C3%B6zt%C3%BCrk-68b52430b/)
+- [Twitter](https://x.com/DataJourney021)
 
 ## GitHub Stats
 
