@@ -18,9 +18,9 @@ I'm a passionate Data Science enthusiast currently honing my skills in various a
 ## Projects
 
 ### [Project 1 Name]
-Description: [Brief description of the project]
-- [GitHub Repository](link-to-repo)
-- [Live Demo / Deployment (if any)](link-to-live-demo)
+Description: That will help you be data science.
+- [GitHub Repository](https://github.com/FirazOztrk/Data-Science)
+
 
 ### [Project 2 Name]
 Description: [Brief description of the project]
