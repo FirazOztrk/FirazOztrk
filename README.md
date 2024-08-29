@@ -1,16 +1,13 @@
 I'm a passionate Data Science enthusiast currently honing my skills in various aspects of data analysis, machine learning, and statistical modeling. I love exploring data and turning it into actionable insights.
 
-- 🔭 I’m currently working on: [Your Project]
-- 🌱 I’m currently learning: [Current Learning Focus]
+- 🌱 I’m currently learning: Generative AI
 - 👯 I’m looking to collaborate on: Data Science projects, open-source contributions
 - 💬 Ask me about: Data Science, Python, Machine Learning, Statistics
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A fun fact about you]
+- 📫 How to reach me: Firaz.2194@gmail.com
 
 ## Skills
 
-- **Programming Languages**: Python, R
+- **Programming Languages**: Python
 - **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn
 - **Tools & Platforms**: Jupyter Notebook, Git, GitHub, SQL, Tableau
 - **Concepts**: Data Cleaning, Data Visualization, Machine Learning, Statistical Analysis
@@ -30,7 +27,6 @@ Description: [Brief description of the project]
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/f%C4%B1raz-%C3%B6zt%C3%BCrk-68b52430b/)
-- [Twitter](https://x.com/DataJourney021)
 
 ## GitHub Stats
 
