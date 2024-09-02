@@ -9,20 +9,9 @@ I'm a passionate Data Science enthusiast currently honing my skills in various a
 
 - **Programming Languages**: Python
 - **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn
-- **Tools & Platforms**: Jupyter Notebook, Git, GitHub, SQL, Tableau
+- **Tools & Platforms**: Jupyter Notebook, Git, GitHub, SQL
 - **Concepts**: Data Cleaning, Data Visualization, Machine Learning, Statistical Analysis
 
-## Projects
-
-### [Project 1 Name]
-Description: That will help you be data science.
-- [GitHub Repository](https://github.com/FirazOztrk/Data-Science)
-
-
-### [Project 2 Name]
-Description: [Brief description of the project]
-- [GitHub Repository](link-to-repo)
-- [Live Demo / Deployment (if any)](link-to-live-demo)
 
 ## Connect with Me
 
